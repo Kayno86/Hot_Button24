@@ -1,2 +1,3 @@
 # Hot_Button24
-Online Casino auf jeden einzelnen Spieler so wie er möchte konfigurierbar
+Online Casino wie es so noch nicht gab
+Wird auf jeden einzelnen User so angepasst wie er mag
